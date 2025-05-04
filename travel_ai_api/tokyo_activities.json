@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Vending Machine Ramen",
+    "description": "Order ramen from a vending machine and enjoy a fresh, hot meal at popular spots like Ramen Nagi in Shinjuku.",
+    "highlights": [
+      "Unique ordering experience",
+      "Convenient for non-Japanese speakers",
+      "Available at popular ramen chains like Ichiran, Afuri, and Ippudo"
+    ],
+    "price_range": null,
+    "location": "Shinjuku",
+    "rating": null,
+    "source": "DuckDuckGo Search"
+  },
+  {
+    "name": "Loft Souvenir Shopping",
+    "description": "A one-stop shop for unique Japanese souvenirs, including stationery, skincare, and home goods.",
+    "highlights": [
+      "Wide range of products",
+      "Organized by category",
+      "Locations in Shibuya and Ginza"
+    ],
+    "price_range": null,
+    "location": "Shibuya",
+    "rating": null,
+    "source": "DuckDuckGo Search"
+  },
+  {
+    "name": "Shibuya Scramble Crossing",
+    "description": "Experience the world's busiest intersection and its chaotic yet exciting atmosphere.",
+    "highlights": [
+      "Iconic tourist spot",
+      "Best viewed from nearby Starbucks or Shibuya Sky",
+      "Less crowded early morning or late night"
+    ],
+    "price_range": null,
+    "location": "Shibuya",
+    "rating": null,
+    "source": "DuckDuckGo Search"
+  }
+]

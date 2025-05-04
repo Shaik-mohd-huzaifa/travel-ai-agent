@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Kew Gardens",
+    "description": "A UNESCO World Heritage site featuring the largest and most diverse botanical collections in the world.",
+    "highlights": [
+      "Palm House",
+      "Treetop Walkway",
+      "Seasonal exhibitions"
+    ],
+    "price_range": "\u00a315-\u00a320",
+    "location": "Richmond",
+    "rating": 4.8,
+    "source": "DuckDuckGo Search"
+  },
+  {
+    "name": "Hyde Park",
+    "description": "One of London's largest and most famous parks, offering a variety of outdoor activities.",
+    "highlights": [
+      "Boating on the Serpentine",
+      "Open-air concerts",
+      "Walking and cycling paths"
+    ],
+    "price_range": "Free",
+    "location": "Central London",
+    "rating": 4.7,
+    "source": "DuckDuckGo Search"
+  },
+  {
+    "name": "The London Pass\u00ae by Go City",
+    "description": "A pass providing access to over 90 top sights in London with the option to add exclusive extras.",
+    "highlights": [
+      "Access to 90+ experiences",
+      "Flexible duration from 1 to 10 days",
+      "Includes popular attractions and exclusive extras",
+      "Mobile ticket and instant confirmation"
+    ],
+    "price_range": "from \u00a379",
+    "location": "Various locations in London",
+    "rating": 4.5,
+    "source": "DuckDuckGo Search"
+  }
+]

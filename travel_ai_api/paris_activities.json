@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Disneyland\u00ae Paris",
+    "description": "A world-renowned theme park offering a magical experience with attractions and entertainment for all ages.",
+    "highlights": [
+      "Theme park",
+      "Entertainment",
+      "Family-friendly"
+    ],
+    "price_range": "from \u20ac63",
+    "location": "Marne-la-Vall\u00e9e, Paris",
+    "rating": null,
+    "source": "DuckDuckGo Search"
+  },
+  {
+    "name": "Eiffel Tower",
+    "description": "An iconic symbol of Paris, offering breathtaking views of the city from its observation decks.",
+    "highlights": [
+      "Iconic landmark",
+      "Observation decks",
+      "Panoramic views"
+    ],
+    "price_range": "from \u20ac30",
+    "location": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris",
+    "rating": null,
+    "source": "DuckDuckGo Search"
+  },
+  {
+    "name": "Louvre Museum",
+    "description": "The world's largest art museum and a historic monument in Paris, home to thousands of works of art including the Mona Lisa.",
+    "highlights": [
+      "Art museum",
+      "Historic monument",
+      "Mona Lisa"
+    ],
+    "price_range": "from \u20ac24.90",
+    "location": "Rue de Rivoli, 75001 Paris",
+    "rating": null,
+    "source": "DuckDuckGo Search"
+  }
+]
